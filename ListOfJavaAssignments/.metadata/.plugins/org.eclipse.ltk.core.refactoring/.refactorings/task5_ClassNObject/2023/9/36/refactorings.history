@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;task5_ClassNObject&apos; to &apos;in.mindcraft&apos;&#x0D;&#x0A;- Original project: &apos;task5_ClassNObject&apos;&#x0D;&#x0A;- Original element: &apos;task5_ClassNObject/src/task5_ClassNObject&apos;&#x0D;&#x0A;- Renamed element: &apos;task5_ClassNObject/src/in.mindcraft&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;task5_ClassNObject&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;task5_ClassNObject" name="in.mindcraft" qualified="false" references="true" stamp="1693803278094" textual="false" version="1.0"/>
+</session>
